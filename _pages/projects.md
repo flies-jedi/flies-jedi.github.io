@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: meetings
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: former, present and future IRL JEDI meetings
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [future, past]
 horizontal: false
 ---
 
