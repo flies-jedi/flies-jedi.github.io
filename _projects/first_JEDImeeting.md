@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JEDI meeting 2025
-description: first post COVID19 meeting
+title: JEDI meeting 2011
+description: first JEDI meeting
 img: assets/img/first_JEDImeeting/Leysin.jpg
 importance: 1
 category: past
