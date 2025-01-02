@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /mailinglist/
-title: Mailing List
+title: mailing list
 description: Just a few info regarding the JEDIs mailing list.
 nav: true
 nav_order: 6
