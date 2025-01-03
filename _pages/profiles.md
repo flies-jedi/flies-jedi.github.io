@@ -28,7 +28,7 @@ profiles:
     content: about_g_kolahgar.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 G Kohlahgar</p>
+      <p>G Kohlahgar</p>
       <p>Cambridge Stem Cell Institute</p>
   - align: left
     image: JEDImeeting2025/organizers/J_Felsenberg.jpg
