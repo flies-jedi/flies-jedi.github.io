@@ -23,7 +23,6 @@ The JEDI club was born to allow Junior European Drosophila Investigators to shar
 If you are a Junior Group Leader who recently opened their first Drosophila research laboratory, join us.
 <p></p>
 <h3> Can I become a JEDI?</h3>
-You don’t become a JEDI. You are born JEDI. Just kidding. 
 If you run your own laboratory and call yourself a fly person you are welcome to join. The club is open to researchers who are at early stages of their independent careers, possibly in a pre-tenure phase. 
 
 <h3> Who is behind this?</h3>

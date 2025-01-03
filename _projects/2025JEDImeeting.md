@@ -45,10 +45,4 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
 </div>
 
 The goal is simple.
-Each of the participant quickly presents their research work and projects, we all try to better know each other, share experiences, tips, build up our fly people network and take over the world!
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/JEDImeeting2025/dr_evil.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+Each of the participant quickly presents their research work and projects, we all try to better know each other, share experiences, tips and build up our fly people network!
