@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Registration opening for the JEDI meeting 2025 in Chateau du Feÿ <a href="https://flyjedi.sciencesconf.org/">here</a>.
+Registration opening for the <b><i>JEDI meeting 2025 in Chateau du Feÿ</i></b> <a href="https://flyjedi.sciencesconf.org/">here</a>.
