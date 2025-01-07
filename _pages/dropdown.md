@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Communities
+title: OtherCommunities
 nav: true
 nav_order: 8
 dropdown: true
@@ -10,5 +10,4 @@ children:
   - title: divider
   - title: DrosEU
     permalink: /droseu/
-  - title: divider
 ---
