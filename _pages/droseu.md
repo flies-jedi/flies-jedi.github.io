@@ -3,7 +3,7 @@ layout: page
 permalink: /droseu/
 title: DrosEU
 description: Link to the DrosEU website
-nav: true
+nav: false
 nav_order: 6
 ---
 
