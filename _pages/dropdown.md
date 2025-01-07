@@ -1,16 +1,14 @@
 ---
 layout: page
-title: submenus
+title: Other Communities
 nav: false
 nav_order: 8
-dropdown: false
+dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: European Droso Society
+    permalink: /EuropeanDrosophilaSociety/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: DrosEU
+    permalink: /droseu/
   - title: divider
-  - title: blog
-    permalink: /blog/
 ---
