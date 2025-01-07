@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /EuropeanDrosophilaSociety/
-title: EDS
+title: Europe Drosophila Society
 description: Link to the European Drosophila Society website
 nav: false
 nav_order: 5
