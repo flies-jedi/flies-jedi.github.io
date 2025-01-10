@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Registration opening for the <b><i>JEDI meeting 2025 in Chateau du Feÿ</i></b> <a href="https://flyjedi.sciencesconf.org/">here</a>.
+Registration opening for the <b><i>JEDI meeting 2025 in Chateau du Feÿ</i></b> <a href="https://flyjedi.sciencesconf.org/"> here</a> before <u>Feb. 28<sup>th</sup>!.
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:mzzjcmbccw6jypyylqb22hzo/app.bsky.feed.post/3lf5xjkizjs2y" data-bluesky-cid="bafyreibr3q63f6sjbrnozpnt3t66rh5qi466i6z727hnuday7regxmsppu"><p lang="en">Dear Droso peeps, we re-announce the upcoming JEDI meeting that will take place at Château du Feÿ from June 3rd to 5th in 2025.
 You&#x27;ll find a prelim program flies-jedi.github.io/projects/202... 
