@@ -1,16 +1,18 @@
 ---
 layout: page
 title: JEDI meeting 2025
-description: first post COVID19 meeting
+description: first post COVID19 meeting --REGISTER before Feb.28
 img: assets/img/JEDImeeting2025/chateaudufey.jpg
 importance: 1
 category: future
 related_publications: false
 ---
 
-You will be able to register here starting mid-december <a href="https://flyjedi.sciencesconf.org/" target="_blank">here</a>.
+You will be able to register here starting mid-december <a href="https://flyjedi.sciencesconf.org/" target="_blank">here</a> until February 28<sup>th</sup>.
 
-We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025.
+We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025. 
+<p>For a moderate fee of 350€ including all amenities besides transportation, you'll have 3 days to present and discuss your work with a small group of junior PIs. 
+<p>We will have the pleasure to discuss fundamental research funding and publication process with <a href = "https://erc.europa.eu/erc_member/maria-leptin">Prof. Maria LEPTIN, <a href = "https://www.hfsp.org/almut-kelber">Prof. Almut Kelber</a>, <a href ="https://www.linkedin.com/in/katherine-brown-9b358583/?originalSubdomain=uk">Dr. Katherine Brown</a> and <a href = "https://www.linkedin.com/in/richardsever/">Dr. Richard Sever</a>.
 
 
 <div class="row">
