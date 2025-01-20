@@ -12,7 +12,19 @@ You will be able to register here starting mid-december <a href="https://flyjedi
 
 We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025. 
 <p>For a moderate fee of 350€ including all amenities besides transportation, you'll have 3 days to present and discuss your work with a small group of junior PIs. 
+<p> The goal is simple.
+Each of the participant quickly presents their research work and projects, we all try to better know each other, share experiences, tips and build up our fly people network!
+
 <p>We will have the pleasure to discuss fundamental research funding and publication process with <a href = "https://erc.europa.eu/erc_member/maria-leptin">Prof. Maria LEPTIN, <a href = "https://www.hfsp.org/almut-kelber">Prof. Almut Kelber</a>, a Company of Biologists representative and <a href = "https://www.linkedin.com/in/richardsever/">Dr. Richard Sever</a>.
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: center
+    image: JEDImeeting2025/sponsors/EDS.png
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>European Drosophila Society</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -53,5 +65,3 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
   </div>
 </div>
 
-The goal is simple.
-Each of the participant quickly presents their research work and projects, we all try to better know each other, share experiences, tips and build up our fly people network!
