@@ -17,15 +17,6 @@ Each of the participant quickly presents their research work and projects, we al
 
 <p>We will have the pleasure to discuss fundamental research funding and publication process with <a href = "https://erc.europa.eu/erc_member/maria-leptin">Prof. Maria LEPTIN, <a href = "https://www.hfsp.org/almut-kelber">Prof. Almut Kelber</a>, a Company of Biologists representative and <a href = "https://www.linkedin.com/in/richardsever/">Dr. Richard Sever</a>.
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: center
-    image: JEDImeeting2025/sponsors/EDS.png
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>European Drosophila Society</p>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/access_map.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -65,3 +56,13 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
   </div>
 </div>
 
+<hr style="width:70%;text-align:left;margin-left:0">
+<p>Sponsors</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/sponsors/EDS.png" title="European Drosophila Society logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/sponsors/EasyBehaviour_logo.png" title="EasyBehaviour logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
