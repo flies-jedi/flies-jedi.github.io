@@ -57,7 +57,7 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
 </div>
 
 <hr style="width:70%;text-align:left;margin-left:0">
-<p>Sponsors</p>
+<p><h2>Sponsors</h2></p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/sponsors/EDS.png" title="European Drosophila Society logo" class="img-fluid rounded z-depth-1" %}
