@@ -78,4 +78,3 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
   </div>
 </div>
 
-{% include /assets/maps/participants_map.html %}
