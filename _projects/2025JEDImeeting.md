@@ -77,3 +77,5 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
     {% include figure.liquid path="assets/img/JEDImeeting2025/sponsors/Logo_UPC.png" title="example image" class="img-fluid rounded z-depth-0" %}
   </div>
 </div>
+
+{% include participants_map.html %}
