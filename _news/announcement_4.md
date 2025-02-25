@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Up to date map of the registered attendees on Feb. 21<sup>st</sup>
+Up to date map of the registered attendees on Feb. 25<sup>th</sup>
 
 
 ![alt text](../assets/img/JEDImeeting2025/participants_map.png)
