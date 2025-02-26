@@ -10,6 +10,8 @@ related_publications: false
 
 You will be able to register here starting mid-december <a href="https://flyjedi.sciencesconf.org/" target="_blank">here</a> until February 28<sup>th</sup>.
 
+NB: in case of financial difficulties for payiong the fees, please contact us
+
 We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025. 
 <p>For a moderate fee of 350€ including all amenities besides transportation, you'll have 3 days to present and discuss your work with a small group of junior PIs. 
 <p> The goal is simple.
