@@ -42,7 +42,7 @@ profiles:
     content: about_k_siudeja.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>K Siuedja</p>
+      <p>K Siudeja</p>
       <p>Institute for Integrative Biology of the Cell</p>
   - align: left
     image: JEDImeeting2025/organizers/n_konstantinides.jpg
