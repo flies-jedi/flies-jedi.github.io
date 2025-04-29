@@ -57,5 +57,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>M Rera</p>
-      <p>Institut Jacques Monod</p>
+      <p>Biologie Fonctionnelle et Adaptative</p>
 ---
