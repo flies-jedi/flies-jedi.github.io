@@ -70,6 +70,9 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/sponsors/Logo_IJM.png" title="EasyBehaviour logo" class="img-fluid rounded z-depth-0" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/sponsors/logo_COB.png" title="The Company of Biologists logo" class="img-fluid rounded z-depth-0" %}
+    </div>
 </div>
 <div class="row justify-content-sm-center">
   <div class="col-sm-1 mt-3 mt-md-0">
