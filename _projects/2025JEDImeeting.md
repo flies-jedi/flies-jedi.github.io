@@ -8,6 +8,8 @@ category: future
 related_publications: false
 ---
 
+You can now download the full program <a href="/assets/pdf/JEDI2025_Program.pdf">here</a>.
+
 You will be able to register here starting mid-december <a href="https://flyjedi.sciencesconf.org/" target="_blank">here</a> until February 28<sup>th</sup>.
 
 NB: in case of financial difficulties for payiong the fees, please contact us
