@@ -4,7 +4,7 @@ title: JEDI meeting 2025
 description: first post COVID19 meeting --REGISTER before Feb.28
 img: assets/img/JEDImeeting2025/chateaudufey.jpg
 importance: 1
-category: future
+category: past
 related_publications: false
 ---
 
