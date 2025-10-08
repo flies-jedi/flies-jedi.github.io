@@ -19,11 +19,12 @@ social: true # includes social icons at the bottom of the page
 <h3> Who are the JEDIs</h3>
 The JEDIs are early career scientists working on Drosophila melanogaster in Europe and having recently established their independent research group. 
 <br>
-The JEDI club was born to allow Junior European Drosophila Investigators to share ideas, expertise, and resources. This portal is a mean for the JEDIs to known each other and interact, through these pages and through the mailing list.
-If you are a Junior Group Leader who recently opened their first Drosophila research laboratory, join us.
+The JEDI Club was founded to allow Junior European Drosophila Investigators to share ideas, expertise, and resources. This portal serves as a hub for JEDIs to get to know each other and interact, both through these pages and via our mailing list.
 <p></p>
+
 <h3> Can I become a JEDI?</h3>
-If you run your own laboratory and call yourself a fly person you are welcome to join. The club is open to researchers who are at early stages of their independent careers, possibly in a pre-tenure phase. 
+If you are a group leader running your own Drosophila research lab for up to seven years, whether on a tenure-track or temporary position, we invite you to join us.
+Please take a few minutes to <a href="https://docs.google.com/forms/d/1IdONgMWDSbpGU0yVqae886-zCuqj2-14dmhcGl-F8tU/viewform?edit_requested=true#responses">fill out this form</a>.
 
 <h3> Who is behind this?</h3>
 The JEDI club originated by a brainstorming session between <a href="https://www.epfl.ch/labs/deplanckelab/" target="_blank">Bart Deplancke</a> and <a href ="https://starklab.org/" target="_blanck">Alex Stark</a>. Within a few months the group grew to more than 60 members, spread all over Europe and working in Universities and Research Institutes. Alex and Bart were then flanked in the organization by <a href = "https://profiles.imperial.ac.uk/g.gilestro" target="_blank">Giorgio Gilestro</a>, <a href = "https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/group-leader" target="_blank">Pavel Tomancak</a> and <a href="https://www.linkedin.com/in/yogi-jaeger/" target="_blank">Yogi Yaeger</a>.
