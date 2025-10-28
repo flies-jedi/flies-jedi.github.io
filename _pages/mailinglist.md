@@ -2,12 +2,10 @@
 layout: page
 permalink: /mailinglist/
 title: mailing list
-description: Just a few info regarding the JEDIs mailing list.
+description: Join Our Mailing List!
 nav: true
 nav_order: 6
 ---
-
-### Join Our Mailing List
 
 Are you a group leader running your lab for up to seven years — whether on a temporary, tenure-track, or tenured position?  <br><br>
 
