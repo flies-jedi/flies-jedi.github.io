@@ -14,7 +14,8 @@ You will be able to register here starting mid-december <a href="https://flyjedi
 
 NB: in case of financial difficulties for payiong the fees, please contact us
 
-We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025. 
+We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025.
+
 <p>For a moderate fee of 350€ including all amenities besides transportation, you'll have 3 days to present and discuss your work with a small group of junior PIs. 
 <p> The goal is simple.
 Each of the participant quickly presents their research work and projects, we all try to better know each other, share experiences, tips and build up our fly people network!
@@ -27,7 +28,7 @@ Each of the participant quickly presents their research work and projects, we al
     </div>
 </div>
 Easily accessible from Paris by train (approx. 1h), we'll come pick up with a van at the Joigny train station.
- 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -88,4 +89,3 @@ Wide spaces, to share and discuss experiences about being a fly researcher in 20
   </div>
 
 </div>
-

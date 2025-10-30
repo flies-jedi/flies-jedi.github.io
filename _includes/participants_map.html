@@ -1,37 +1,39 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Participants Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <style>
-        #map { height: 500px; }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Participants Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <style>
+    #map {
+      height: 500px;
+    }
+  </style>
 </head>
 <body>
-    <h2>Participants Distribution</h2>
-    <div id="map"></div>
+  <h2>Participants Distribution</h2>
+  <div id="map"></div>
 
-    <script>
-        var map = L.map('map').setView([20, 0], 2); // Centered at an arbitrary point
+  <script>
+    var map = L.map("map").setView([20, 0], 2); // Centered at an arbitrary point
 
-        // Add OpenStreetMap tiles
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; OpenStreetMap contributors'
+    // Add OpenStreetMap tiles
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "&copy; OpenStreetMap contributors",
+    }).addTo(map);
+
+    // Fetch and load GeoJSON data
+    fetch("./assets/maps/JEDI2025/2025JEDI_attendees.csv")
+      .then((response) => response.json())
+      .then((data) => {
+        L.geoJSON(data, {
+          onEachFeature: function (feature, layer) {
+            if (feature.properties && feature.properties.name) {
+              layer.bindPopup(feature.properties.name);
+            }
+          },
         }).addTo(map);
-
-        // Fetch and load GeoJSON data
-        fetch("./assets/maps/JEDI2025/2025JEDI_attendees.csv")
-            .then(response => response.json())
-            .then(data => {
-                L.geoJSON(data, {
-                    onEachFeature: function (feature, layer) {
-                        if (feature.properties && feature.properties.name) {
-                            layer.bindPopup(feature.properties.name);
-                        }
-                    }
-                }).addTo(map);
-            })
-            .catch(error => console.error("Error loading GeoJSON:", error));
-    </script>
+      })
+      .catch((error) => console.error("Error loading GeoJSON:", error));
+  </script>
 </body>

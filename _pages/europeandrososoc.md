@@ -17,11 +17,12 @@ The <b>European Drosophila Society</b> was registered as a non-profit associatio
   <li>To advocate for Drosophila research and represent the interests of the European Drosophila community to national and international institutions</li>
   <li>To promote cohesion and cooperation among Drosophila researchers worldwide and to support common infrastructure</li>
   <li>To promote interactions between the European Drosophila community and other scientific communities</li>
-</ul> 
+</ul>
 
 <h3>The Values</h3>
 
 The European Drosophila Board is driven by a number of values/principles
+
 <ul>
   <li>To defend the value of basic science driven by the curiosity of independent investigators</li>
   <li>To promote a better representation of diversity in the scientific community in terms of gender, country and ethnicity</li>
@@ -32,7 +33,6 @@ The European Drosophila Board is driven by a number of values/principles
   <li>To promote the educational role of science and the communication with the lay public</li>
   <li>To favour the development of common resources for the community</li>
 </ul>
-
 
 You can read the full constituion <a href = "https://europeandrosophilasociety.org/constitution">here</a> and enroll on their <a href = "https://europeandrosophilasociety.org/">main page</a>.
 

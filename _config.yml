@@ -73,7 +73,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 email: jedi@fly-jedi.org
 bluesky_url: https://bsky.app/profile/fly-jedi.bsky.social
 
-
 contact_note: >
   If you want to be added to the mailing list, contact us by email.
 
@@ -94,7 +93,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 output:
   html_document:
-    includes: 
+    includes:
       in_header: GA_script.html
 
 # -----------------------------------------------------------------------------

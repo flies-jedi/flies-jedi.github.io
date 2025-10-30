@@ -7,7 +7,6 @@ related_posts: false
 
 Up to date map of the registered attendees on March 9<sup>th</sup>
 
-
 ![alt text](../assets/img/JEDImeeting2025/participants_map.png)
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:mzzjcmbccw6jypyylqb22hzo/app.bsky.feed.post/3ljgebimesk24" data-bluesky-cid="bafyreidqluhmnmkky5bjqoemjltgu3yhajbwnqevnmbqw3n44qm5ksfj3y"><p lang="en">After closing the registration, here&#x27;s the word cloud of themes that will be present on site for the resurrection of the JEDIs.

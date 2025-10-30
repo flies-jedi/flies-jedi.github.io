@@ -1,4 +1,3 @@
-
 Head of the <a href = "https://www.pdn.cam.ac.uk/directory/golnar-kolahgar">Gut maintenance lab</a>.
 
 <p>After obtaining a degree in Biochemistry and a Master of Science at the University Paris 6 (France), I worked as a research assistant in Alfonso Martinez-Arias’ lab, where I started learning about developmental biology. During my PhD in Jean-Paul Vincent’s lab at the MRC National Institute of Medical Research (London), I studied how embryonic epithelial cells undergo apoptosis after they lose contact with their neighbours. Further interested in signal transduction, I joined Eugenia Piddini’s lab as a postdoctoral researcher at the WT/CRUK Gurdon Institute (Cambridge) to study how differences in cellular fitness affect cell-fate decisions in tissue homeostasis. 

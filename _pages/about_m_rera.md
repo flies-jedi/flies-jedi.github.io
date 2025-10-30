@@ -1,4 +1,4 @@
-Head of the <a href = "https://michaelrera.github.io/" target="_blank">Understanding the End-of-Life team.</a> 
+Head of the <a href = "https://michaelrera.github.io/" target="_blank">Understanding the End-of-Life team.</a>
 
 <p>Trying to understand what ageing is, where it comes from and where it gets us, since 2005. Building the two-phase ageing framework since I first described the Smurf phenotype in Drosophila melanogaster . I started my research group "Understanding The End-of-Life" (UTELife) in 2018.
 

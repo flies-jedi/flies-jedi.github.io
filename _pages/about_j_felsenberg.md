@@ -1,4 +1,4 @@
-Head of the <a href = "https://www.fmi.ch/research-groups/groupleader.html?group=141" target="_blank">Neural circuit mechanisms of memory re-evaluation lab</a> 
+Head of the <a href = "https://www.fmi.ch/research-groups/groupleader.html?group=141" target="_blank">Neural circuit mechanisms of memory re-evaluation lab</a>
 
 <p> We investigate how neural processes allow memories to be changed. When actual experience does not accurately match a learned expectation, the underlying memory can become destabilized and therefore is rewritable through a process called memory reconsolidation. The Felsenberg group studies the tractable brain of the fruit fly Drosophila to understand fundamental neural operations of memory re-evaluation and reconsolidation.
 
