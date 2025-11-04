@@ -1,5 +1,0 @@
-Head of the <a href = "https://parisbraininstitute.org/paris-brain-institute-research-teams/gut-sense-lab" target="_blank">GutSense lab</a>
-
-<p>I’ve always been fascinated by how the nervous system regulates animal physiology through interactions with other organs. My scientific journey began in Greece, where I completed my undergraduate studies, before moving to London for my PhD and postdoctoral training. Initially, I studied how the nervous system develops into a functional unit, but over time, I became increasingly interested in how it coordinates physiological changes in response to evolving internal needs.
-<p>In 2023, I established the GutSense team at the Paris Brain Institute (ICM). We focus on understanding the “ins and outs” of how the nervous system computes internal needs in response to external environmental cues, with a particular emphasis on the brain-gut axis function and its role in metabolic health. 
-<p>Our approach integrates animal behavior, physiology, anatomy, and molecular function.

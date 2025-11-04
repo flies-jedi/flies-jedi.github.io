@@ -29,7 +29,6 @@ Each of the participant quickly presents their research work and projects, we al
 </div>
 Easily accessible from Paris by train (approx. 1h), we'll come pick up with a van at the Joigny train station.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JEDImeeting2025/chateaudufey.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
