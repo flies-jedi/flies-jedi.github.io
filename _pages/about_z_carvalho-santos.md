@@ -1,4 +1,4 @@
-<a href = "https://gimm.pt/lab/zita-carvalho-santos-lab/" target="_blank">Carvalho-Santos Lab</a>
+<a href = "https://gimm.pt/lab/zita-carvalho-santos-lab/" target="_blank">Zita Carvalho-Santos</a>
 
 <p>I am a cell biologist with a deep-rooted passion for multidisciplinary approaches to science. My journey began at the Instituto Gulbenkian de Ciência (IGC) in Portugal, where I earned my PhD in Dr. Bettencourt-Dias' lab, investigating the evolution and function of molecular modules that assemble microtubule-based structures such as centrosomes and cilia. This experience sparked my fascination with the interplay between cellular architecture and physiology. I the joined Dr. Ribeiro’s lab at the Champalimaud Centre for the Unknown, where I applied my cell biology expertise to explore how metabolism shapes biological systems where I helped developing novel frameworks for studying how cellular metabolism influences animal physiology, contributing to studying gut microbiome, feeding behavior, and reproductive biology.</p>
 
