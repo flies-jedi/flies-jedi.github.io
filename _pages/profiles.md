@@ -9,53 +9,52 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+
   - align: right
-    image: JEDImeeting2025/organizers/g_linneweber.jpg
-    content: about_g_linneweber.md
+    image: JEDI2026/orga/Zita.jpg
+    content: about_z_carvalho-santos.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>AG Linneweber</p>
-      <p>Institute of Biology</p>
+      <p>Zita Carvalho-Santos</p>
+      <p>Gulbenkian Institute for Molecular Medicine, Oeiras</p>
+
   - align: left
-    image: JEDImeeting2025/organizers/d_hadjieconomou.jpg
-    content: about_d_hadjieconomou.md
+    image: JEDI2026/orga/Gili.jpg
+    content: about_g_ezra.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>D Hadjieconomou</p>
-      <p>Paris Brain Institute</p>
+      <p>Gili Ezra-Nevo</p>
+      <p>Fundação Champalimaud, Lisbon</p>
+
   - align: right
-    image: JEDImeeting2025/organizers/g_kolahgar.jpg
-    content: about_g_kolahgar.md
+    image: JEDI2026/orga/Clara.jpg
+    content: about_c_ferreira.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>G Kohlahgar</p>
-      <p>Cambridge Stem Cell Institute</p>
+      <p>Clara Ferreira</p>
+      <p>Northumbria University, Newcastle</p>
+      
   - align: left
-    image: JEDImeeting2025/organizers/J_Felsenberg.jpg
-    content: about_j_felsenberg.md
+    image: JEDI2026/orga/Daniel.jpg
+    content: about_d_muench.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>J Felsenberg</p>
-      <p>Friedrich Miescher Institute for Biomedical Research</p>
+      <p>Daniel Münch</p>
+      <p>Justus-Liebig-University, Giessen</p>
+
   - align: right
-    image: JEDImeeting2025/organizers/K_Siudeja.jpg
-    content: about_k_siudeja.md
+    image: JEDI2026/orga/Ana.jpg
+    content: about_a_pimenta-marques.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>K Siudeja</p>
-      <p>Institute for Integrative Biology of the Cell</p>
+      <p>Ana Pimenta Marques</p>
+      <p>NOVA Medical School, Lisbon</p>
+
   - align: left
-    image: JEDImeeting2025/organizers/n_konstantinides.jpg
-    content: about_n_konstantinides.md
+    image: JEDI2026/orga/Katja.jpg
+    content: about_k_rust.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>N Konstantinides</p>
-      <p>Institut Jacques Monod</p>
-  - align: right
-    image: JEDImeeting2025/organizers/m_rera.jpg
-    content: about_m_rera.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>M Rera</p>
-      <p>Biologie Fonctionnelle et Adaptative</p>
+      <p>Katja Rust</p>
+      <p>Philipps-University, Marburg</p>
 ---

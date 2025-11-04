@@ -1,0 +1,4 @@
+<a href = "https://ferreira-lab.weebly.com/" target="_blank">Ferreira Lab</a>
+
+<p>We study the neurobiological basis of social interactions in groups, a strong determinant of behaviour across the animal kingdom. As groups confer advantages in terms of reproduction, feeding and protection against predation, being able to detect cues from multiple individuals and respond to them appropriately is paramount for both individual fitness and maintenance of animal groups and societies. By studying the molecular, neuronal and circuit-level basis of social modulation in the context of primordial drivers of group formation, we strive to reveal fundamental principles of social behaviour and gain insight into its origins and evolution.</p>
+
