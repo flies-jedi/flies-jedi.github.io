@@ -1,1 +1,3 @@
+<a href = "https://www.linkedin.com/in/gili-ezra" target="_blank">Gili Ezra-Nevo</a>
+
 <p>Animals consume diets made of macronutrients, including proteins, but the quantity and quality of available proteins can vary drastically across cultures, regions, and environments. As a dedicated foodie, I am curious about how animals cope with these changes and adapt when food composition shifts. I combine behavioral assays, transcriptomics, and functional approaches in Drosophila with complementary mouse models to study these processes, aiming to link molecular, neural, and metabolic mechanisms across species.</p>
