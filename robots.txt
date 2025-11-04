@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://flies-jedi.github.io/sitemap.xml
+Sitemap: https://fly-jedi.org/sitemap.xml
