@@ -5,6 +5,13 @@ title: people
 description: trying to give you the best experience for building lasting networks
 nav: true
 nav_order: 7
+dropdown: true
+children:
+  - title: Current Committee
+    permalink: /people/
+  - title: divider
+  - title: 2025 Committee
+    permalink: /people/2025/
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
