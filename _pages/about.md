@@ -29,5 +29,4 @@ Please take a few minutes to <a href="https://docs.google.com/forms/d/1IdONgMWDS
 The JEDI club originated from a brainstorming session between <a href="https://www.epfl.ch/labs/deplanckelab/" target="_blank">Bart Deplancke</a> and <a href="https://starklab.org/" target="_blank">Alex Stark</a>. Within a few months, the group grew to more than 60 members across Europe, working in universities and research institutes.  
 Bart and Alex were later joined in the organization by <a href="https://profiles.imperial.ac.uk/g.gilestro" target="_blank">Giorgio Gilestro</a>, <a href="https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/group-leader" target="_blank">Pavel Tomancak</a>, and <a href="https://www.linkedin.com/in/yogi-jaeger/" target="_blank">Yogi Yaeger</a>.
 
-<br>
-Meet the 2026 committee <a href="https://flies-jedi.github.io/people/">here</a>.
+👉 Meet the 2026 committee <a href="https://flies-jedi.github.io/people/" target="_self">here</a>.
