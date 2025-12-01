@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: trying to give you the best experience for building lasting networks
 nav: true
 nav_order: 7

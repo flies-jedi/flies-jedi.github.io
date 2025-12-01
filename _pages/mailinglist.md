@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /mailinglist/
-title: mailing list
+title: Mailing List
 description: Join Our Mailing List!
 nav: true
 nav_order: 6

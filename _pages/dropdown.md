@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OtherCommunities
+title: Other Communities
 nav: true
 nav_order: 8
 dropdown: true

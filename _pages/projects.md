@@ -1,7 +1,7 @@
 ---
 layout: page
-title: meetings
-permalink: /projects/
+title: Meetings
+permalink: /meetings/
 description: former, present and future IRL JEDI meetings
 nav: true
 nav_order: 3
