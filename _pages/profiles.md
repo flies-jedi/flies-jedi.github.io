@@ -58,3 +58,9 @@ profiles:
       <p>Katja Rust</p>
       <p>Philipps-University, Marburg</p>
 ---
+
+<!-- HTML below YAML -->
+<h3>Previous committees</h3>
+<ul>
+    <li><i><a href='https://fly-jedi.org/people/2025'>2025 Committee</a></i></li>
+</ul>
