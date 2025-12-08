@@ -2,7 +2,7 @@
 layout: profiles
 title: People
 permalink: /people/
-description: The present JEDI team: collaboration, curiosity, community
+description: "The present JEDI team: collaboration, curiosity, community"
 nav: true
 nav_order: 7
 dropdown: true
