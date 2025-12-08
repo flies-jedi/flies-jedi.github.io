@@ -1,17 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
 title: People
+permalink: /people/
 description: The present JEDI team: collaboration, curiosity, community
 nav: true
 nav_order: 7
-dropdown: true
-children:
-  - title: Current Committee
-    permalink: /people/
-  - title: divider
-  - title: 2025 Committee
-    permalink: /people/2025/
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
