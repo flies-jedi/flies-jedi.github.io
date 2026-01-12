@@ -42,7 +42,7 @@ profiles:
       <p>Northumbria University, Newcastle</p>
 
   - align: left
-    image: JEDI2026/orga/Bruno.ong
+    image: JEDI2026/orga/Bruno.png
     content: about_b_hudry.md
     image_circular: false # crops the image to make it circular
     more_info: >
