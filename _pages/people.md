@@ -42,6 +42,15 @@ profiles:
       <p>Northumbria University, Newcastle</p>
 
   - align: left
+    image: JEDI2026/orga/Bruno.ong
+    content: about_b_hudry.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bruno Hudry</p>
+      <p>Université Nice Sophia Antipolis, Nice</p>
+
+
+  - align: right
     image: JEDI2026/orga/Daniel.jpg
     content: about_d_muench.md
     image_circular: false # crops the image to make it circular
@@ -49,7 +58,7 @@ profiles:
       <p>Daniel Münch</p>
       <p>Justus-Liebig-University, Giessen</p>
 
-  - align: right
+  - align: left
     image: JEDI2026/orga/Ana.jpg
     content: about_a_pimenta-marques.md
     image_circular: false # crops the image to make it circular
@@ -57,7 +66,7 @@ profiles:
       <p>Ana Pimenta Marques</p>
       <p>NOVA Medical School, Lisbon</p>
 
-  - align: left
+  - align: right
     image: JEDI2026/orga/Katja.jpg
     content: about_k_rust.md
     image_circular: false # crops the image to make it circular
