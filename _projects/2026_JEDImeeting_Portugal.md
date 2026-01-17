@@ -8,4 +8,4 @@ category: future
 related_publications: false
 ---
 
-Get ready! The 2026 JEDI Meeting is coming to Portugal in early June. Mark your calendars and check back soon for more details.
+Get ready! The 2026 JEDI Meeting is coming to <b>Portugal June 1-3</b>. Mark your calendars and check back soon for more details.
