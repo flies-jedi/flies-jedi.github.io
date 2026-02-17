@@ -162,7 +162,7 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
+  meetings:
     output: true
     permalink: /:collection/:title/
 
