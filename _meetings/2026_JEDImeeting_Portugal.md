@@ -18,7 +18,7 @@ Over the course of three days, all participants will present their research in s
 >
 > Registration is limited to 50 participants, on a first-come, first-served basis.
 >
-> **[Register Here](https://congressos.mundiconvenius.pt/geral/paginas.aspx?cod=237)**
+> **[Register Here](https://congressos.mundiconvenius.pt/geral/inseririnscricao.aspx?evento=176&formulario=317&lingua=en-GB)**
 
 ---
 
@@ -85,7 +85,7 @@ Portugal offers a strong and growing life-science community within a culturally 
 
 ## Registration
 
-**[Click here to register](https://congressos.mundiconvenius.pt/geral/paginas.aspx?cod=237)**
+**[Click here to register](https://congressos.mundiconvenius.pt/geral/inseririnscricao.aspx?evento=176&formulario=317&lingua=en-GB)**
 
 _Places are limited to 50 participants – register early to secure your spot!_
 
