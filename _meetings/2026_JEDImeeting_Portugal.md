@@ -82,7 +82,7 @@ Portugal offers a strong and growing life-science community within a culturally 
 <div style="clear: both;"></div>
 
 ---
- 
+
 ## Registration
 
 **[Click here to register](https://congressos.mundiconvenius.pt/geral/inseririnscricao.aspx?evento=176&formulario=317&lingua=en-GB)**
