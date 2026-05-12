@@ -108,7 +108,7 @@ _Places are limited to 50 participants – register early to secure your spot!_
   
   <span style="display:inline-block;width:120px;"></span>
   
-    <a href="https://www.biologists.com" target="_blank" rel="noopener">
+  <a href="https://www.biologists.com" target="_blank" rel="noopener">
     <img src="/assets/img/JEDI2026/COB_logo.jpg" 
          alt="The Company of Biologists" 
          style="max-width: 240px; height: auto;">
